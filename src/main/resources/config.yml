@@ -1,0 +1,7 @@
+
+prefix: &4&lMy Server &7>>
+success-msg: {prefix} &aSuccessfully set your nickname to &7{nick}&a!
+failure-msg: {prefix} &cYou do not have permission to do that
+
+perm-to-nick: myserver.nick
+perm-to-use-colors: myserver.nick.colors

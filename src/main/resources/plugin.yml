@@ -1,0 +1,6 @@
+name: NickPlaceholders
+version: 1.0-SNAPSHOT
+authors: ["ExperimentalX"]
+description: "Just some nicks and placeholders :)"
+main: me.experimental.Main
+website: https://github.com/experimental-development
